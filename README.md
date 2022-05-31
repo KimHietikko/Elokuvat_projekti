@@ -1,4 +1,4 @@
-# Elokuvat_projekti
+# MovieApp
 
 This is a practical work for university's programming course. 
 The program is written in Java language and the front end is made by SceneBuilder (University's own software).
